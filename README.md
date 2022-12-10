@@ -3,7 +3,7 @@
 I'm passionate about software development and learn new technologies.
 I am an undergraduate student of Sri Lanka Institute of Information Technology (SLIIT)
 
-- 🔭 I’m currently working on JAVA project.
-- 🌱 I’m currently learning MEARN stack and AWS solutions architect.
+- 🔭 I’m currently working with JAVA spring boot and React.
+- 🌱 I’m currently learning AWS solutions architect.
 
 
